@@ -1,12 +1,17 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Python
+- skill: Python
+  description: Basic understanding of Python for general-purpose programming, 
+   including scripting, data handling, and simple object-oriented design.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# C++
+- skill: C++
+  description: Proficient in C++ with experience in object-oriented programming,
+    file I/O, and using standard libraries. Comfortable working with
+    classes, pointers, vectors, and problem-solving through structured code.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Excel
+- skill: Excel
+  description:  Proficient in Excel for data analysis, including the use of
+    formulas, functions, pivot tables, and basic macros. Able to create
+    structured spreadsheets for data management and reporting.
